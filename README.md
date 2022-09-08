@@ -4,6 +4,7 @@
 
 [<img align="left" alt="sasakiroo | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br>
+
 ###### link video:
+<br>
 [youtube]: https://youtube.com/shorts/4QukrFyZNj0?feature=share
